@@ -1,0 +1,60 @@
+# فایل‌های سیستم
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# فایل‌های موقت
+*.tmp
+*.temp
+*_temp.md
+*_cleaned.md
+*_final.md
+
+# فایل‌های خروجی (اختیاری)
+# book_clean.md
+# media/
+
+# فایل‌های Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# فایل‌های ویرایشگر
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# فایل‌های لاگ
+*.log
+
+# فایل‌های محیط
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/ 
